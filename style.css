@@ -90,7 +90,7 @@
     }
     
     .hamburger {
-        margin-right: 15px;
+        margin-right: 15px !important;
         display: none;
     }
     
